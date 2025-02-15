@@ -1,3 +1,4 @@
+criei o printf 
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
